@@ -3,7 +3,8 @@
 <hr>
 <br>
 <br>
-###  Hi! 🦄
+
+### Hi! 🦄
 
 * 🌱 I’m currently learning HTML, CSS & JAVASCRIPT 
 * 🤝🏻 Looking for help with Javascript
