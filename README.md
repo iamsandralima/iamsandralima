@@ -1,9 +1,6 @@
 
  <img height="400em" src="https://64.media.tumblr.com/d036921b63af6a3724da534d12197ce6/tumblr_o4i9ojQcJj1snc5kxo1_500.gifv"/>
 <hr>
-<br>
-<br>
-
 ### Hi! 🦄
 
 * 🌱 I’m currently learning HTML, CSS & JAVASCRIPT 
@@ -22,6 +19,9 @@
   <img align="center" alt="San-Ts" height="30" width="40" 
   <img align="center" alt="San-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="San-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img height= "150em" src="https://user-images.githubusercontent.com/107657763/180986231-85652612-1a64-493a-b69b-50674a71e663.PNG">
+
  
   <hr>
 <br>
