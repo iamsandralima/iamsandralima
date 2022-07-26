@@ -21,9 +21,6 @@
   <img align="center" alt="San-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="San-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img height= "150em" src="https://user-images.githubusercontent.com/107657763/180986231-85652612-1a64-493a-b69b-50674a71e663.PNG">
-
- 
   <hr>
 <br>
 <br>
@@ -32,7 +29,8 @@
   
   <a href="https://www.instagram.com/iamsandralima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sandralima.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sandra-lima-2278443a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sandra-lima-2278443a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img height= "150em" src="https://user-images.githubusercontent.com/107657763/180986231-85652612-1a64-493a-b69b-50674a71e663.PNG">
+
  
   ![Snake animation](https://github.com/iamsandralima/iamsandralima/blob/output/github-contribution-grid-snake.svg)
  
