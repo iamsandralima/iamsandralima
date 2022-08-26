@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning HTML, CSS & JAVASCRIPT 
 * 🤝🏻 Looking for help with Javascript
 * 👩🏻‍💻 I’m a tech enthusiast & a self learner.
-* 🗣 My favorite singer is Lana Del Rey!
+* 🎤 My favorite singer is Lana Del Rey!
 
 <div align="center">
   <a href="https://github.com/iamsandralima">
