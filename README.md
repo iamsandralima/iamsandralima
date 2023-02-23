@@ -24,7 +24,9 @@
   <hr>
 <br>
 <br>
- 
+  <img height="400em" src="https://user-images.githubusercontent.com/89845641/219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1.gif"/>
+<hr>
+
 <div> 
   
   <a href="https://www.instagram.com/iamsandralima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
