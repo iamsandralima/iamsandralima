@@ -4,7 +4,7 @@
 
 ### Hi! 🦄
 
-* 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & QUALITY ASSURANCE
+* 🌱 I’m currently learning QUALITY ASSURANCE, HTML, CSS & JAVASCRIPT 
 * 🤝🏻 Looking for help with Javascript
 * 👩🏻‍💻 I’m a tech enthusiast & a self learner
 * 🎤 My favorite singer is Lana Del Rey!
