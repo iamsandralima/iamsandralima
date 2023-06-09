@@ -3,12 +3,13 @@
 <hr>
 
 ### Hi! 🦄
-Enthusiast of the best web & mobile development technologies.
+👀 I’m interested in ... programming especially in HTML, CSS and JavaScript because I'm still a junior and I want to improve my skills as a font-end developer, I like design and create pages web.
 
-* 🌱 I’m currently learning HTML, CSS & JAVASCRIPT 
-* 🤝🏻 Looking for help with Javascript
+* 🌱 I’m currently learning JavaScript 
+* 🤝🏻 Looking for help with JavaScript
 * 👩🏻‍💻 I’m a tech enthusiast & a self learner
 * 🎤 My favorite singer is Lana Del Rey!
+* ⚡ Fun fact I am Funny
 
 <div align="center">
   <a href="https://github.com/iamsandralima">
