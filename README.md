@@ -3,6 +3,7 @@
 <hr>
 
 ### Hi! 🦄
+Enthusiast of the best web & mobile development technologies.
 
 * 🌱 I’m currently learning HTML, CSS & JAVASCRIPT 
 * 🤝🏻 Looking for help with Javascript
